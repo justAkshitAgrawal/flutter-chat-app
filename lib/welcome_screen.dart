@@ -64,7 +64,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                               fontSize: 16),
                         ),
                       ),
-                      const SizedBox(width: 20),
+                      const SizedBox(width: 25),
                       NeumorphicButton(
                         onPressed: () {
                           //change screen to LoginScreen
